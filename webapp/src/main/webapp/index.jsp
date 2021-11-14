@@ -32,7 +32,10 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning, Please visit us AGAIN! </h1>
+   <h1> Thank you, Happy Learning, Please visit us AGAIN! </h1>
+	
+	<h3 style = "color:blue; text-align:center; height:auto; width:auto;">New Beginings!</h3>
+	
 
   
 </form>
