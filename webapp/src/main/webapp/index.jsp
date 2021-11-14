@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome to DevOps Learning</h1>
-	<h2>I made some changes here. See if you can find them!</h2>
+    <h1 style="color:purple;">Welcome to DevOps Learning</h1>
+	<h2 style="color:blue;">I made some changes here. See if you can find them!</h2>
     <p>Please don't worry about this form.  It's just a TEST!</p>
     <hr>
      
